@@ -190,3 +190,7 @@ function validate() {
       default:
     }
   }
+  function findName() {
+    dayValue = calculateDayValue();
+    getGender();
+  }
