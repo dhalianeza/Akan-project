@@ -18,3 +18,9 @@
     text-align: center;
     color: #45567d;
   }
+  form{
+    background-color: rgb(28, 27, 50);
+    width: 70%;
+    margin: auto;
+    border-radius: 5px;
+  }
