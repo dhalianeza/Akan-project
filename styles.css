@@ -12,4 +12,9 @@
     cursor: pointer;
   }
 
-   
+  #title{
+    width:500px;
+    margin: auto;
+    text-align: center;
+    color: #45567d;
+  }
